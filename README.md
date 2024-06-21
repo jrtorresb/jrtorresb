@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm a Machine Learning Engineer
+### My name is Robert
+I am a Mathematician and Professional Machine Learning Engineer - Google Cloud Certified
 <!--
 **jrtorresb/jrtorresb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
